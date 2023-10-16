@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ses-seviye-kontrol", "ses-seviye-kontrol\ses-seviye-kontrol.csproj", "{A9D5FF70-D6AC-4E4E-8241-BB9FB95F4F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D5FF70-D6AC-4E4E-8241-BB9FB95F4F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D5FF70-D6AC-4E4E-8241-BB9FB95F4F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D5FF70-D6AC-4E4E-8241-BB9FB95F4F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D5FF70-D6AC-4E4E-8241-BB9FB95F4F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A60E5C-2360-44D4-AF5E-66BD75C69FB7}
+	EndGlobalSection
+EndGlobal
